@@ -69,4 +69,3 @@ test("should contain html", () => {
 		'<h1 id="header">Todo App</h1>'
 	);
 });
-git
